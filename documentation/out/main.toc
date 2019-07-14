@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}% 
+\contentsline {subsection}{\numberline {1.1}Task}{3}% 
+\contentsline {subsection}{\numberline {1.2}Quality}{3}% 
+\contentsline {section}{\numberline {2}Conditions}{4}% 
+\contentsline {subsection}{\numberline {2.1}Technical}{4}% 
+\contentsline {subsection}{\numberline {2.2}Organizational}{4}% 
+\contentsline {subsection}{\numberline {2.3}Conventions}{4}% 
+\contentsline {section}{\numberline {3}Context}{4}% 
+\contentsline {subsection}{\numberline {3.1}Functional}{4}% 
+\contentsline {subsection}{\numberline {3.2}Technical}{4}% 
+\contentsline {section}{\numberline {4}Strategy}{4}% 
+\contentsline {section}{\numberline {5}Sights}{4}% 
+\contentsline {subsection}{\numberline {5.1}Plate}{4}% 
+\contentsline {subsection}{\numberline {5.2}Runtime}{4}% 
+\contentsline {subsection}{\numberline {5.3}Ditribution}{4}% 
+\contentsline {section}{\numberline {6}Concepts}{4}% 
+\contentsline {section}{\numberline {7}Design Decisions}{4}% 
+\contentsline {section}{\numberline {8}Risks}{4}% 
+\contentsline {section}{\numberline {9}Glossary}{4}% 
