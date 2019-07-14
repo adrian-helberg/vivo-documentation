@@ -8,6 +8,19 @@
 \usepackage{amsmath} % Math
 \usepackage[ngerman, english]{babel}% Language
 \usepackage[absolute, overlay]{textpos} % Positioning
+\usepackage{xcolor,colortbl} % Colors
+
+% Custom Commands
+\newcommand{\mc}[2]{\multicolumn{#1}{c}{#2}}
+
+% Force linebreaking on words that would be hyphenated
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+% Colors
+\definecolor{Gray}{gray}{0.85}
 
 % Title
 \title{
@@ -44,7 +57,7 @@
     \begin{itemize}
         \item[>] \textbf{Informing} about the supply of drinks and their ingredients
         \item[>] \textbf{Networking} with people of the same interest
-        \item[>] \textbf{Discover} and \textbf{enjoy} the Drinks you like
+        \item[>] \textbf{Discover} and enjoy the Drinks you like
     \end{itemize}
 
     \subsection{Quality}
@@ -52,9 +65,12 @@
     \textit{Characteristics}
     \begin{table}[!ht]
         \setlength{\tabcolsep}{10pt}
-        \begin{tabular}{l | p{8.8cm}}
+        \begin{tabular}{l | p{10.5cm}}
             \hline
-            \\[0ex] Functionality & The software should work accurately and adequately with maximum security \\[2ex] \hline
+            \rowcolor{Gray}
+            \mc{1}{Quality Feature} &  \mc{1}{Motivation} \\
+            \hline
+            \\[0ex] Functionality & The software should work accurately and adequately with max. security \\[2ex] \hline
             \\[0ex] Reliability & Ensuring recoverability and acceptable fault tolerance \\[2ex] \hline
             \\[0ex] Usability & The software is easy to use, learn and understand \\[2ex] \hline
             \\[0ex] Efficiency & The software works fast and resource-saving \\[2ex] \hline
@@ -69,17 +85,46 @@
     %%%%%%%%%%%%%%%%%%%%
     \section{Conditions}
 
-        \subsection{Technical}
-        \subsection{Organizational}
-        \subsection{Conventions}
+    \subsection{Technical}
+
+    \textbf{Moderate hardware}\\
+    Operation of the solution on a common standard smartphone for use in bars.\\ \\
+    \textbf{Use on \textcopyright Android and \textcopyright Apple Operation Systems}\\
+    Implementation of \textcopyright Flutter application with language dart to maintain different OS.\\ \\
+    \textbf{Engines}\\
+    Android JDK version 29.0.1\\
+    Flutter version 1.7.8 + hotfix.3\\ \\
+    \textbf{Third-party software}\\
+    Flutter and Dart are under \textit{Attribution 4.0 International (CC BY 4.0)} License.
+
+    \subsection{Organizational}
+
+    \begin{table}[!ht]
+        \setlength{\tabcolsep}{10pt}
+        \begin{tabular}{l | p{10.5cm}}
+            \hline
+            \rowcolor{Gray}
+            \mc{1}{Condition} &  \mc{1}{Description} \\
+            \hline
+            \\[0ex] Team & Adrian Helberg, Gerriet Hinrichs as Admins and Developers \\[2ex] \hline
+            \\[0ex] Time & No fixed schedule yet \\[2ex] \hline
+            \\[0ex] Process model & Prototyping with proper documentation \\[2ex] \hline
+            \\[0ex] Management & \textcopyright OpenProject hosted on own webserver \\[2ex] \hline
+            \\[0ex] Version Control & \textcopyright Git via \textcopyright GitHub\\[2ex] \hline
+            \\[0ex] Tests & Continuous integration via Jenkins\\[2ex] \hline
+            \hline
+        \end{tabular}
+    \end{table}
+
+    \subsection{Conventions}
 
     %%%%%%%%%%%%%%%%%%%%
     % CONTEXT          %
     %%%%%%%%%%%%%%%%%%%%
     \section{Context}
 
-        \subsection{Functional}
-        \subsection{Technical}
+    \subsection{Functional}
+    \subsection{Technical}
 
     %%%%%%%%%%%%%%%%%%%%
     % STRATEGY         %
@@ -91,9 +136,9 @@
     %%%%%%%%%%%%%%%%%%%%
     \section{Sights}
 
-        \subsection{Plate}
-        \subsection{Runtime}
-        \subsection{Ditribution}
+    \subsection{Plate}
+    \subsection{Runtime}
+    \subsection{Ditribution}
 
     %%%%%%%%%%%%%%%%%%%%
     % CONEPTS          %
