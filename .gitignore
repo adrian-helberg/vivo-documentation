@@ -1,9 +1,6 @@
-.idea
-.gradle
-gradle
-auxil
-*.iml
-*.aux
-*.log
-*.gz
-*.toc
+*
+!.gitignore
+!documentation
+!documentation/out/main.pdf
+!documentation/src/*
+!README.md
