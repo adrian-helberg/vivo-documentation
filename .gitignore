@@ -1,1 +1,7 @@
-*
+.idea
+Diagrams.drawio
+documentation/.gradle
+documentation/.idea
+documentation/auxil
+documentation/gradle
+documentation/vivo-documentation.iml
