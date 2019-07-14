@@ -3,3 +3,7 @@
 gradle
 auxil
 *.iml
+*.aux
+*.log
+*.gz
+*.toc
