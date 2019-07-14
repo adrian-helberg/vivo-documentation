@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.09.0 (MiKTeX 2.9.6930 64-bit)  (format=lualatex 2019.2.5)  14 JUL 2019 15:54
+This is LuaTeX, Version 1.09.0 (MiKTeX 2.9.6930 64-bit)  (format=lualatex 2019.2.5)  14 JUL 2019 22:49
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -49,7 +49,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 1.165 seconds
+luaotfload | main : initialization completed in 1.176 seconds
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
 ("C:/Program Files/MiKTeX 2.9/tex/latex/base/size11.clo"
@@ -268,25 +268,76 @@ Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TP@tbargs=\toks20
 \TP@prevdepth=\dimen120
 TextBlockOrigin set to 0pt x 0pt
-) (I:/git/vivo-documentation/documentation/out/main.aux)
+) (C:/Users/Main/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/graphics-def/luatex.def"
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:/Program Files/MiKTeX 2.9/tex/latex/colortbl/colortbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty"
+Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
+\col@sep=\dimen121
+\ar@mcellbox=\box31
+\extrarowheight=\dimen122
+\NC@list=\toks21
+\extratabsurround=\skip46
+\backup@length=\skip47
+\ar@cellbox=\box32
+)
+\everycr=\toks22
+\minrowclearance=\skip48
+)
+(I:/git/vivo-documentation/documentation/out/main.aux)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
-ABD: EveryShipout initializing macros [1
+ABD: EveryShipout initializing macros
+(C:/Users/Main/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen123
+\scratchbox=\box33
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen124
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks24
+) [1
 
 {C:/Users/Main/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (I:/git/vivo-documentation/documentation/out/main.toc)
@@ -294,31 +345,36 @@ ABD: EveryShipout initializing macros [1
 
 \openout3 = main.toc
  [2]
-Overfull \hbox (4.02312pt too wide) in paragraph at lines 55--65
+Overfull \hbox (54.3856pt too wide) in paragraph at lines 68--81
 [][] 
  []
 
-[3] [4] (I:/git/vivo-documentation/documentation/out/main.aux))
+[3]
+Overfull \hbox (54.4133pt too wide) in paragraph at lines 104--117
+[][] 
+ []
+
+[4] [5] (I:/git/vivo-documentation/documentation/out/main.aux))
 
 Here is how much of LuaTeX's memory you used:
- 1823 strings out of 494300
+ 2887 strings out of 494300
  100000,319454 words of node,token memory allocated
- 494 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 7 attribute, 49 glue_spec,
+ 504 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 7 attribute, 51 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 2:388,3:118,4:5,5:98,6:35,7:1467,8:1,9:169,10:4,11:118
- 5981 multiletter control sequences out of 65536+200000
+   avail lists: 2:386,3:83,4:31,5:110,6:22,7:1708,8:1,9:193,10:12,11:137
+ 7003 multiletter control sequences out of 65536+200000
  41 fonts using 3034983 bytes
- 27i,10n,23p,271b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,12n,35p,271b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/program files/miktex 2.9/fonts/opentype/public/lm/lmroman10-italic.otf><c:/p
 rogram files/miktex 2.9/fonts/opentype/public/lm/lmroman10-bold.otf><c:/program 
 files/miktex 2.9/fonts/opentype/public/lm/lmroman10-regular.otf><c:/program file
 s/miktex 2.9/fonts/opentype/public/lm/lmroman12-regular.otf><c:/program files/mi
 ktex 2.9/fonts/opentype/public/lm/lmroman12-bold.otf><c:/program files/miktex 2.
 9/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on main.pdf (4 pages, 38610 bytes).
+Output written on main.pdf (5 pages, 44113 bytes).
 
-PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
